@@ -18,7 +18,7 @@ var JSONBingo = {"squares": [
         {"square": "will.exe has stopped"},
         {"square": "Does anybody need a backpack?"},
         {"square": "Pirate Queen - Little Bear"},
-        {"square": "We're sitll in Subnautica / We never left SOMA"},
+        {"square": "We're still in Subnautica / We never left SOMA"},
         {"square": "Hero to the people Dan Jones!"},
         {"square": "How goes the hand?"},
         {"square": "Dramatic Duck"},
@@ -42,6 +42,7 @@ var JSONBingo = {"squares": [
         {"square": "SHARKS!"},    	
         {"square": "WHAT APOUT QUEST!?"},    	
         {"square": "ALL YOU CAN UPGRAD IS STRANTH!?"},    	
-        {"square": "*Will cries*"}  	
+        {"square": "*Will cries*"},
+        {"square": "Iron Z Spoon!"}
     ]
 };
