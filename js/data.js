@@ -44,6 +44,22 @@ var JSONBingo = {"squares": [
         {"square": "ALL YOU CAN UPGRAD IS STRANTH!?"},    	
         {"square": "*Will cries*"},
         {"square": "Here Comes The Pain Train"},
-        {"square": "Iron Z Spoon!"}
+        {"square": "*Will does a silly voice*"},
+        {"square": "A Ket appears"},
+        {"square": "Fecking seagulls"},
+        {"square": "NUMPTIES!"},
+        {"square": "Look at this anjanath"},
+        {"square": "Floydo!"},
+        {"square": "Wafflemancy"},
+        {"square": "*Pun on someones username*"},
+        {"square": "#RebootEndoTeam"},
+        {"square": "Pirate crew"},
+        {"square": "SOBA"},
+        {"square": "Teeny tiny thing"},
+        {"square": "But that's a nother story"},
+        {"square": "Uncle Death believes in you"},
+        {"square": "Senpai"},
+        {"square": "ECHO"},
+        {"square": "Neurotoxin"}
     ]
 };
