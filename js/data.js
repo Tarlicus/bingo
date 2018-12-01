@@ -60,6 +60,7 @@ var JSONBingo = {"squares": [
         {"square": "Uncle Death believes in you"},
         {"square": "Senpai"},
         {"square": "ECHO"},
-        {"square": "Neurotoxin"}
+        {"square": "Neurotoxin"},
+        {"square": "Do a murder"}
     ]
 };
