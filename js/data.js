@@ -1,7 +1,7 @@
 
 var headerText = "Longship Bingo";
 
-var footerText = "<a href='https://github.com/LongshipStudios/bingo/' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://forms.gle/kRzYoGoH67Hz3BPL8' target='_blank'>Suggest Tiles</a> - <a href='https://github.com/LongshipStudios/bingo/' target='_blank'>Code available on github</a>";
 
 var winText = "Winner";
 
