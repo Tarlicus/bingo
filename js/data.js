@@ -25,7 +25,7 @@ var JSONBingo = {"squares": [
         {"square": "Twizzlers, Drangoes and Tea"},
         {"square": "It's a kaleidoscope!"},
         {"square": "Tiny Mechs"},
-        {"square": "PORG KET"},
+        //{"square": "PORG KET"},
         {"square": "Mr Viking"},
         {"square": "How about nooooooo"},
         {"square": "BRB need tea logo is still up"},
@@ -45,7 +45,7 @@ var JSONBingo = {"squares": [
         {"square": "*Will cries*"},
         {"square": "Here Comes The Pain Train"},
         {"square": "*Will does a silly voice*"},
-        {"square": "A Ket appears"},
+        //{"square": "A Ket appears"},
         {"square": "Fecking seagulls"},
         {"square": "NUMPTIES!"},
         {"square": "Look at this Anjanath"},
@@ -64,5 +64,9 @@ var JSONBingo = {"squares": [
         {"square": "Growler"},
         {"square": "Do a murder"},
         {"square": "MFLAFFAFFLAFF"}
+        {"square": "Will accidentally ignores someone in chat"}
+        {"square": "IT'S NOT A CULT"}
+        {"square": "It's a cult"}]
+        {"square": "Will tries not to waffle but waffles"}
     ]
 };
