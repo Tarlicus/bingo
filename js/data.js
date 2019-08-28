@@ -48,7 +48,7 @@ var JSONBingo = {"squares": [
         //{"square": "A Ket appears"},
         {"square": "Fecking seagulls"},
         {"square": "NUMPTIES!"},
-        {"square": "Look at this Anjanath"},
+        //{"square": "Look at this Anjanath"},
         {"square": "Floydo!"},
         {"square": "Wafflemancy"},
         {"square": "*Pun on someones username*"},
@@ -59,7 +59,7 @@ var JSONBingo = {"squares": [
         {"square": "But that's a nother story"},
         {"square": "Uncle Death believes in you"},
         {"square": "Senpai"},
-        {"square": "ECHO"},
+        //{"square": "ECHO"},
         {"square": "Neurotoxin"},
         {"square": "Growler"},
         {"square": "Do a murder"},
@@ -74,5 +74,7 @@ var JSONBingo = {"squares": [
         {"square": "Will apologizes for being human"},
         {"square": "Will apologizes for taking a tea break"},
         {"square": "Will explains double jumping"},
+        {"square": "Will cries"},
+        {"square": "Press T to talk"},
     ]
 };
